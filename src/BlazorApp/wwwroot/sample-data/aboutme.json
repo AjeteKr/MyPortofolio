@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "As a student in financial mathematics with a profound passion for information technology, I have cultivated a broad expertise in software development. With a rich technical portfolio and deep knowledge in languages such as C#, JavaScript and specialized skills in ASP.NET Core, Blazor, I have substantial hands-on experience in programming and application development. My work experience, ranging from C# and .NET programming to network administration and information security, has significantly influenced my professional growth. Certifications in programming and information security have prepared me for the challenges of the tech market. With qualities such as time management, problem-solving, and communication skills, I aspire to make significant contributions to innovative projects in the future.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Object-Oriented Programming (OOP)",
+    "Desktop and Web App Development: ASP.NET Core, WPF, Angular, React",
+    "Database Basics and SQL",
+    "Front-End Development: HTML, CSS, JavaScript, React, Angular",
+    "Collaboration and Version Control: Git, Teamwork",
+    "Testing and Debugging: Application Testing, Debugging"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am deeply passionate about software development, driven by the thrill of solving complex problems in innovative ways. My goal is to create tech solutions that are not only robust but also user-centered and accessible to all."
 }

@@ -1,22 +1,22 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "History of the University of Prishtina in a timeline format",
+    "description": " This project is a website built using HTML, CSS, and JavaScript, showcasing the history of the University of Prishtina in a timeline format. Through a structured layout, users can explore key events in the development of this educational institution in Kosovo. This portfolio piece demonstrates skills in designing and presenting information in an engaging and user-friendly manner.",
+    "url": "https://github.com/AjeteKr/timelineUP.github.io"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Crate your own ToDo List",
+    "description": "To-Do List App in ReactJS is a simple and user-friendly application for managing daily tasks. Users can add, delete, and mark their tasks as completed within this application. Each added task is securely stored in the application's storage, allowing users to view their tasks even after refreshing the page.",
+    "url": "https://github.com/AjeteKr/ToDoList"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "LakeXplorer",
+    "description": "LakeXplorer is a web application that allows users to discover different lakes, view lake details, and share their lake sightings. It provides features for user registration, authentication using JWT tokens, and interacting with the API.",
+    "url": "https://github.com/AjeteKr/LakeXplorerAlbiSoft"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "Bank Management System",
+    "description": "Blazor Bank Management System is a web application built with Blazor, a modern web framework that allows developers to create interactive web applications using C# instead of traditional JavaScript. This application is designed for secure and efficient management of bank accounts.",
+    "url": "https://github.com/AjeteKr/BlazorBankManagementSystem"
   }
 ]
